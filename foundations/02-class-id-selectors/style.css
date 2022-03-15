@@ -1,5 +1,21 @@
-p {
-    background-color: rgb(203, 182, 223);
+.class {
+    background-color: rgb(230, 219, 240);
     font-family: verdana, dejavu-sans, sans-serif;
 
+}
+
+.size {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    color: black;
+    background-color: limegreen;
+    font-size: 24px;
+    font-weight: bold;
 }
